@@ -1,0 +1,15 @@
+{
+  "name": "wells-fargo-assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run index.js"
+  },
+  "author": "Mukesh",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
